@@ -53,6 +53,14 @@
 - 유튜브 영상 썸네일: `IFY.KR/yt/img/{유튜브 영상 아이디}`
   - 예제: [IFY.KR/yt/img/1ZX1vEDTfY4](https://ify.kr/yt/img/1ZX1vEDTfY4), [IFY.KR/yt/img/yebNIHKAC4A](https://ify.kr/yt/img/yebNIHKAC4A)
 
+#### 마크다운 작성 시 사용 방법
+
+- 유튜브 영상 썸네일 링크: `[![{유튜브 영상 썸네일 텍스트}]({유튜브 영상 썸네일 주소})]({유튜브 영상 주소})`
+  - 예제: `[![FIFTY FIFTY (피프티피프티) 'Pookie' Official MV](https://IFY.KR/yt/img/1ZX1vEDTfY4)](https://IFY.KR/yt/1ZX1vEDTfY4/1m6s)`
+  [![FIFTY FIFTY (피프티피프티) 'Pookie' Official MV](https://IFY.KR/yt/img/1ZX1vEDTfY4)](https://IFY.KR/yt/1ZX1vEDTfY4/1m6s)
+  - 예제: `[![“Golden” Official Lyric Video | KPop Demon Hunters | Sony Animation](https://IFY.KR/yt/img/yebNIHKAC4A)](https://IFY.KR/yt/yebNIHKAC4A/56)`
+  [![“Golden” Official Lyric Video | KPop Demon Hunters | Sony Animation](https://IFY.KR/yt/img/yebNIHKAC4A)](https://IFY.KR/yt/yebNIHKAC4A/56)
+
 ## 주의사항
 
 - 다음과 같은 콘텐츠 포함 시 제재
