@@ -5,10 +5,10 @@
 ### [사용자 등록](https://github.com/OUS-KR/IFY.KR/issues/new?template=01-user-register-by-issue.yml)
 
 - `IFY.KR/u/{사용자 아이디}` 주소 기반의 사용자 등록
-  - 사용자 예제: [IFY.KR/u/ify](https://ify.kr/u/ify)
+  - 사용자 예제: [IFY.KR/u/ify](https://ify.kr/u/ify), [IFY.KR/u/tests/](https://ify.kr/u/tests)
   - [사용자 등록 예제](https://github.com/OUS-KR/IFY.KR/issues/1)
 - `IFY.KR/@{사용자 아이디}` 형태의 짧은 주소 지원
-  - 사용자 예제: [IFY.KR/@ify](https://ify.kr/@ify)
+  - 사용자 예제: [IFY.KR/@ify](https://ify.kr/@ify), [IFY.KR/@tests](https://ify.kr/@tests)
 - 부적절한 아이디 (욕설, 관리자 등)는 제한되어 등록 시 삭제
 
 ### [사용자 단축주소 생성](https://github.com/OUS-KR/IFY.KR/issues/new?template=02-user-short-url-register-by-issue.yml)
